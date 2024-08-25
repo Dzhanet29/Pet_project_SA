@@ -33,7 +33,7 @@
 ### Диаграмма страницы с товарами
 [Магазин](https://github.com/Dzhanet29/Pet_project_SA/blob/main/Shope.png)
 
-### Диаграмма детализированной страницы с товаров
+### Диаграмма детализированной страницы товара
 [Деталка товара](https://github.com/Dzhanet29/Pet_project_SA/blob/main/DetailPage.png)
 
 ### Диаграмма страницы "Корзина"
