@@ -28,21 +28,16 @@
 ## UML диаграммы
 
 ### Диаграмма главной страницы
-[(Home.png)](https://github.com/Dzhanet29/Pet_project_SA/blob/main/Home.png)
+[Главная страница](https://github.com/Dzhanet29/Pet_project_SA/blob/main/Home.png)
 
 ### Диаграмма страницы с товарами
-[(Shope.png)](https://github.com/Dzhanet29/Pet_project_SA/blob/main/Shope.png)
-
-### Диаграмма последовательности (для процесса оформления заказа)
-![Sequence Diagram](https://example.com/sequence-diagram.png)
+[Магазин](https://github.com/Dzhanet29/Pet_project_SA/blob/main/Shope.png)
 
 ### Диаграмма детализированной страницы с товаров
-[(Detail.png)](https://github.com/Dzhanet29/Pet_project_SA/blob/main/DetailPage.png)
+[Деталка товара](https://github.com/Dzhanet29/Pet_project_SA/blob/main/DetailPage.png)
 
 ### Диаграмма страницы "Корзина"
-[(Cart.png)](https://github.com/Dzhanet29/Pet_project_SA/blob/main/Cart.png)
-
-### Диаграмма последовательности (для процесса оформления заказа)
+[Корзина](https://github.com/Dzhanet29/Pet_project_SA/blob/main/Cart.png)
 
 ## Пользовательская инструкция
 
