@@ -27,6 +27,9 @@
 
 ## UML диаграммы
 
+### Диаграмма всего сайта
+[Сайт интернет-магазина](https://github.com/Dzhanet29/Pet_project_SA/blob/main/full_use_case.png)
+
 ### Диаграмма главной страницы
 [Главная страница](https://github.com/Dzhanet29/Pet_project_SA/blob/main/Home.png)
 
